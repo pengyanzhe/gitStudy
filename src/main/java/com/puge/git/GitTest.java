@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("Git Test2!");
         System.out.println("Git Test3!");
         System.out.println("main Git Test3!");
+        System.out.println("testGit Test3!");
     }
 }
